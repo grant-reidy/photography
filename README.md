@@ -1,2 +1,2 @@
-# photography
+# Photography
 Photography Website

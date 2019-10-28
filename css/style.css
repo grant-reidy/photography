@@ -38,7 +38,7 @@ h1,h2,h3,h4{
 }
 
 h2{
-    font-size:180%;
+    font-size:150%;
     word-spacing:2px;
     margin-bottom:5px;
     letter-spacing:1px;
@@ -52,9 +52,9 @@ h3{
     color: rgba(74,74,74,0.8);
 }
 h4{
-  font-size:250%;
+  font-size:180%;
   word-spacing:2px;
-  margin-bottom:-10px;
+  margin-bottom:0px;
   letter-spacing:1px;
   color: rgb(74,74,74);
   font-weight:700;
@@ -106,7 +106,7 @@ a:hover,a:active{
     top:0;
     left:0;
     height:100%;
-    background:#000;
+    background:rgb(31,31,38);
     background-image:url(../img/large/image_3.jpg);
     background-size:cover;
     background-repeat:no-repeat;
