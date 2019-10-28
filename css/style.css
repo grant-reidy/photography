@@ -52,7 +52,7 @@ h3{
     color: rgba(74,74,74,0.8);
 }
 h4{
-  font-size:300%;
+  font-size:250%;
   word-spacing:2px;
   margin-bottom:-10px;
   letter-spacing:1px;
@@ -107,7 +107,7 @@ a:hover,a:active{
     left:0;
     height:100%;
     background:#000;
-    background-image:url(../img/large/image_3.JPG);
+    background-image:url(../img/large/image_3.jpg);
     background-size:cover;
     background-repeat:no-repeat;
     background-position:center center;
